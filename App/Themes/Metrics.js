@@ -28,7 +28,20 @@ const metrics = {
     medium: 40,
     large: 60,
     logo: 200
-  }
+  },
+
+  //---------------优雅的分割线-----------------
+  metrics5: 5,
+  metrics15: 15,
+  metrics16: 16,
+  metrics17: 17,
+  metrics20: 20,
+  metrics25: 25,
+  metrics30: 30,
+  metrics40: 40,
+  metrics45: 45,
+  metrics60: 60,
+  metrics103: 103
 }
 
 export default metrics

@@ -21,7 +21,16 @@ const colors = {
   eggplant: '#251a34',
   border: '#483F53',
   banner: '#5F3E63',
-  text: '#E0D7E5'
+  text: '#E0D7E5',
+
+  //---------------优雅的分割线------------------
+  theme: '#53b5ff',
+  textColor: '#333333',
+  textGrayColor: '#666666',
+  loginTextColor: 'rgb(54, 54, 54)',
+  loginBtnColor: 'rgb(96, 187, 255)',
+  borderColor: '#0eaeff',
+  grayColor: '#f2f2f2'
 }
 
 export default colors
